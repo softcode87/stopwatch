@@ -1,0 +1,37 @@
+body{
+    background-image: url("/bcc.jpg");
+    background-position: center center;
+    background-size: cover;
+    font-family: sans-serif;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.countdown{
+    display: flex;
+
+}
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 0.2rem;
+    color: rgb(18, 214, 67);
+}
+.bigtext{
+    font-size: 5rem;
+    line-height: 1;
+    margin: 0 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(200, 240, 161, 0.973);
+}
+.cdc{
+    text-align: center;
+}
+.cdc span{
+    font-size: 1rem;
+}
